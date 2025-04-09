@@ -37,7 +37,7 @@
 
 ## Estatísticas do GitHub
 
-(https://github-profile-trophy.vercel.app/?username=guilhermeperitto&theme=juicyfresh)
+[![trophy](https://github-profile-trophy.vercel.app/?username=guilhermeperitto&theme=juicyfresh)
 
 ![Guilherme Peritto GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeperitto&rank_icon=percentile)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermeperitto&)
