@@ -18,16 +18,16 @@
 
 - Linguagens de Programação:
 
-     [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,csharp)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,c#)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,entityframework)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,entity)](https://skillicons.dev)
 - Bancos de Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,oracle)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,oraclesql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,azure,figma,next,vite,drizze,mongoose,docker,postman,insominia,)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,azure,figma,next,vite,docker,postman)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
