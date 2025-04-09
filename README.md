@@ -37,7 +37,7 @@
 
 ## Estatísticas do GitHub
 
-![Guilherme Peritto GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeperitto&show_icons=true&locale=en)
+![Guilherme Peritto GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeperitto&rank_icon=percentile)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeperitto&show_icons=true&locale=en&layout=compact)
 
