@@ -18,10 +18,10 @@
 
 - Linguagens de Programação:
 
-     [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,c#)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,cs)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,entity)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,dotnet,prisma,npm)](https://skillicons.dev)
 - Bancos de Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,oraclesql)](https://skillicons.dev)
@@ -30,7 +30,7 @@
     [![My Skills](https://skillicons.dev/icons?i=git,github,azure,figma,next,vite,docker,postman)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss)](https://skillicons.dev) 
 - Outras:
 
     [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
