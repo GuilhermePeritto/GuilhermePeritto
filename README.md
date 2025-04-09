@@ -16,17 +16,23 @@
 
 💻 Aqui estão algumas das tecnologias que eu domino:
 
-- Linguagens de Programação: 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript)](https://skillicons.dev)
+- Linguagens de Programação:
+
+     [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
+
     [![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs)](https://skillicons.dev)
 - Bancos de Dados: 
+
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
+
     [![My Skills](https://skillicons.dev/icons?i=git,github,azure,figma)](https://skillicons.dev)
 - Desenvolvimento Web:
+
     [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
 - Outras:
+
     [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 ## Estatísticas do GitHub
@@ -36,6 +42,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeperitto&show_icons=true&locale=en&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermeperitto&)
+
+🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
+
+1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
+2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
+3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
 
 ## Vamos Conectar!
 
