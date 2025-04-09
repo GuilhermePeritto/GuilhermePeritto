@@ -27,7 +27,7 @@
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,azure,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,azure,figma,next,vite,neon)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
